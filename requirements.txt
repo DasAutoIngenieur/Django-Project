@@ -1,7 +1,5 @@
-django==5.2.3
-pillow==11.2.1
-django-jazzmin==3.0.1
+django
+pillow
+django-jazzmin
 asgiref==3.8.1
 pip==23.0.1
-setuptools==66.1.1
-slparse==0.5.3
