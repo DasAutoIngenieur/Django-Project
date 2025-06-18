@@ -10,12 +10,12 @@
 4. Activate Venv<br>
 `venv\Scripts\activate` - For Windows<br>
 or<br>
-`source venv\bin\activate` - For Gnu/Linux (UNIX) or MacOS<br>
+`source venv/bin/activate` - For Gnu/Linux (UNIX) or MacOS<br>
 
 5. Install Requirements<br>
 `pip install -r requirements.txt`<br>
 
-7. Apply Database Migrations(if required)<br>
+7. Apply Database Migrations (*if required)<br>
 `python manage.py migrate`<br>
 
 6. Run server<br>
