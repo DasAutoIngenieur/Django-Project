@@ -29,6 +29,4 @@ Go to localhost:8000/admin
 
 # Deletion
 There is a special case on deletion as you will to need to switch options and it is a little hidden
-
-Please View the image if there should be any confusion
 ![alt text](image.png)
